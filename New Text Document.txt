@@ -1,2 +1,9 @@
 nm,nkj
+<<<<<<< HEAD
 devvvv2
+=======
+bnvnm
+
+
+mnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>>>>>>> 5e90ab8 (version main 1)
