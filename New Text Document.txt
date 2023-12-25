@@ -6,4 +6,8 @@ bnvnm
 
 
 mnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+<<<<<<< HEAD
 >>>>>>> 5e90ab8 (version main 1)
+=======
+kkkkkkkkkkkkkkkkkkkkkkk
+>>>>>>> 8836755 (version main 2)
